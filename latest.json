@@ -1,7 +1,7 @@
 {
-  "version": "1.3.7",
-  "zipName": "KVRINA_SHOW_1.3.7_update.zip",
-  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/kvrina-show-releases/main/releases/KVRINA_SHOW_1.3.7_update.zip",
-  "notes": "Aktualizacja do wersji 1.3.7.",
-  "publishedAt": "2026-08-27"
+  "version": "1.3.8",
+  "zipName": "KVRINA_SHOW_1.3.8_update.zip",
+  "zipUrl": "https://raw.githubusercontent.com/pioniton-cmyk/kvrina-show-releases/main/releases/KVRINA_SHOW_1.3.8_update.zip",
+  "notes": "Licznik losowania Kartona Dnia w oknie NA ŻYWO, restart programu z menu, ręczna korekta punktów w rankingu, limity nabijania punktów, samoczynne ponowne łączenie z TikTokiem przy martwym połączeniu, poprawne liczenie serii giftów i giftów za 1 monetę.",
+  "publishedAt": "2026-09-16"
 }
